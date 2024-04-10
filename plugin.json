@@ -1,0 +1,19 @@
+{
+    "metadata": {
+      "author": "SonNguyen",
+      "description": "Thích là nhích ^^!"
+    },
+    "data": [
+          {
+          "name": "truyenvn",
+          "author": "SonNguyen",
+          "path": "https://raw.githubusercontent.com/nhocconsr/vbook-ext/master/vlogtruyen/plugin.zip",
+          "version": 8,
+          "source": "https://truyenvn.one",
+          "icon": "https://raw.githubusercontent.com/nhocconsr/vbook-ext/master/vlogtruyen/icon.png",
+          "description": "Đọc truyện trên trang truyenvn",
+          "type": "comic",
+          "locale": "vi_VN"
+          }
+       ]
+}

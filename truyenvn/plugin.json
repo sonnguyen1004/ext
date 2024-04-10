@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "name": "TruyenVN",
+    "author": "vBook",
+    "version": 30,
+    "source": "https://truyenvn.one/",
+    "regexp": "(www.)?truyenvn[a-z]*.(com|one|net)/truyen-tranh/[^/]+/?$",
+    "description": "TruyenVN - Truyện Tranh Hay, Truyện Tranh 18+ Hot nhất Việt Nam",
+    "locale": "vi_VN",
+    "language": "javascript",
+    "type": "comic"
+  },
+  "script": {
+    "home": "home.js",
+    "genre": "genre.js",
+    "detail": "detail.js",
+    "search": "search.js",
+    "toc": "toc.js",
+    "chap": "chap.js"
+  }
+}
